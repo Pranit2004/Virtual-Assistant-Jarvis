@@ -1,4 +1,7 @@
-# Virtual-Assistant-Jarvis
-hi, i created a virtual assistant and named it as jaarvis  virtual assistant 
-if you have any question regarding this, ask me ill help you 
-☺ 
+# Jarvis-Friday-With-JavaScript
+
+This project doesn't work properly with the current versions of browsers due to privacy issues.
+
+This is A virtual voice Assistant for browsers made using HTML CSS & JAVASCRIPT.
+[Project Playlist](https://www.youtube.com/playlist?list=PLWqtZHJOTN49HtkbGvjM8DcsrytltF1kP)
+"# jarvis" 
